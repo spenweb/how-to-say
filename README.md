@@ -2,7 +2,7 @@
 Pronounces what you have saved in your clipboard.
 
 ## Build
-`pip3 install -r requirements.txt`
+`pip3 install -r requirements.txt`  
 `pyinstaller howtosay.py`
 
 ## Run
